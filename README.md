@@ -1,5 +1,7 @@
 # Karoo SDK
 
+Karoo SDK is deprecated in favor of [karoo-ext](https://github.com/hammerheadnav/karoo-ext).
+
 ## References
 
 [Quick Start](https://hammerheadnav.github.io/karoo-sdk/index.html)
